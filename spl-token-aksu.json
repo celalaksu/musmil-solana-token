@@ -1,6 +1,6 @@
 {
-    "name": "Musla Millet",
-    "symbol": "MUSMIL",
+    "name": "AKSU Family Token",
+    "symbol": "AKSU",
     "description": "A family Solana SPL token :)",
     "image": "https://raw.githubusercontent.com/celalaksu/aksu-solana-token/main/aksu.png"
 }
